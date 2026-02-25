@@ -1,6 +1,9 @@
 # Limit Break AMM — Audit Journey
 
 > First real security contest. Hardest format. Full documentation.
+> This repository does not disclose vulnerabilities or confidential 
+> contest information. It documents personal audit methodology and 
+> learning outcomes only.
 
 ---
 
